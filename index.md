@@ -22,7 +22,7 @@ Da bismo ukazali na ovaj problem, odlučili smo na jedan dan "ugasiti" domaći I
 
 <h2 align="center">Kome smo se pridružili ovom akcijom?</h2>
 
-Ovom akcijom smo se pridružili sajtovima kao što su Amazon, Kickstarter, Vimeo, GitHub, reddit, DigitalOcean, DuckDuckGo, EFF, Mozilla, imgur, Patreon, Vivaldi, World Wide Web Foundation i drugim. Dok ti sajtovi traže specifičnu akciju (ostavljanje komentara tako da neutralnost Interneta ne bude narušena unutar SAD-a), mi smo tu da im pružimo podršku i da spomenemo ovaj problem na lokalnom nivou.
+Ovom akcijom smo se pridružili sajtovima kao što su Amazon, Kickstarter, Vimeo, GitHub, reddit, DigitalOcean, DuckDuckGo, EFF, Mozilla, imgur, Patreon, Vivaldi, Netflix i drugim. Dok ti sajtovi traže specifičnu akciju (ostavljanje komentara tako da neutralnost Interneta ne bude narušena unutar SAD-a), mi smo tu da im pružimo podršku i da spomenemo ovaj problem na lokalnom nivou.
 
 <h2 align="center">Podijeli akciju</h2>
 
@@ -54,8 +54,8 @@ Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o pr
 
 <figure class="third">
 	<a href="https://blog.r3bl.me"><img src="assets/img/partners/r3bl.png"></a>
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
+	<a href="#"><img src="https://placehold.it/600x300.jpg"></a>
+	<a href="#"><img src="https://placehold.it/600x300.jpg"></a>
 	<figcaption></figcaption>
 </figure>
 
@@ -64,16 +64,16 @@ Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o pr
 <figure class="third">
 	<a href="https://labs.rs"><img src="assets/img/partners/share-lab.png"></a>
 	<a href="https://oneworldplatform.net/"><img src="assets/img/partners/owplatform.png"></a>
-	<img src="http://placehold.it/600x300.jpg">
+	<a href="#"><img src="https://placehold.it/600x300.jpg"></a>
 	<figcaption></figcaption>
 </figure>
 
 <h4 align="center">Sajtovi koji će pričati o ovome problemu</h4>
 
 <figure class="third">
-	<a href="http://netokracija.com"><img src="assets/img/partners/netokracija.png"></a>
+	<a href="#"><a href="#"><img src="https://placehold.it/600x300.jpg"></a></a>
 	<a href="https://kompjuteras.com"><img src="assets/img/partners/kompjuteras.png"></a>
-	<img src="http://placehold.it/600x300.jpg">
+	<a href="#"><img src="https://placehold.it/600x300.jpg"></a>
 	<figcaption></figcaption>
 </figure>
 
