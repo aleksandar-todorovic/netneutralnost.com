@@ -5,7 +5,7 @@ date: 2013-05-22
 comments: false
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
-feature: https://aleksandar-todorovic.github.io/netneutralnost.com/assets/img/neutrality-eff_opt.jpg
+feature: https://netneutralnost.com/assets/img/neutrality-eff_opt.jpg
 ---
 
 <h2 align="center"> Šta je net neutralnost?</h2>
@@ -32,7 +32,7 @@ Ovom akcijom smo se pridružili sajtovima kao što su Amazon, Kickstarter, Vimeo
 	</div>
 </div>
 
-<h2 align="center">Zakonska regulativa</h2>
+<!--<h2 align="center">Zakonska regulativa</h2>
 
 <figure class="half">
 	<a href="#"><img src="assets/img/saznaj-vise/bih.png"></a>
@@ -42,7 +42,7 @@ Ovom akcijom smo se pridružili sajtovima kao što su Amazon, Kickstarter, Vimeo
 	<a href="#"><img src="assets/img/saznaj-vise/eur.png"></a>
 	<a href="#"><img src="assets/img/saznaj-vise/usa.png"></a>
 	<figcaption></figcaption>
-</figure>
+</figure>-->
 
 <h2 align="center">Akciji se pridružili</h2>
 
