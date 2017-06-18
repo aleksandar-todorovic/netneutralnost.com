@@ -5,12 +5,52 @@ date: 2013-05-22
 comments: false
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
-feature: https://netneutralnost.com/assets/img/neutrality-eff_opt.jpg
+feature: assets/img/neutrality-eff_opt.jpg
 ---
 
-<h2 align="center"> Šta je net neutralnost?</h2>
+<h2 align="center">Šta je net neutralnost?</h2>
 
-Net neutralnost je princip po kojem Internet provajderi i države koje regulišu Internet moraju da tretiraju sav sadržaj na Internetu jednako, bez diskriminacije u odnosu na to ko pristupa sadržaju, kojem sadržaju pristupa, preko koje platforme pristupa ili tipu opreme koja se koristi za pristupanje Internet sadržaju.
+Net neutralnost je princip po kome provajderi Internet servisa trebaju da tretiraju sav sadržaju jednakim, bez prioritizovanja ili blokiranja određenog sadržaja ili kompletne web stranice, bez obzira na to odakle sadržaj potiče.
+
+<h2 align="center">Zašto je potrebna?</h2>
+
+Ukoliko net neutralnost ne postoji, provajderi Internet servisa bi bili u mogućnosti da urade sljedeće:
+
+1. Da uskrate pristup određenim web stranicama.
+2. Da dozvole pristup samo određenim web stranicama.
+3. Da naplaćuju korisnicima dodatne pakete za pristupanje određenoj vrsti sadržaja na Internetu.
+4. Da spriječe konkurenciji određene Internet kompanije da posluje pod jednakim uslovima.
+
+Razlozi zašto nam je potrebna:
+
+1. Očekujemo da Internet bude otvoren. Svi znamo da je Internet globalna mreža umreženih računara. Globalna mreža dijela umreženih računara ne bi bila Internet kakvim ga poznajemo.
+2. Sloboda govora zavisi od toga da se svako može pod jednakim uslovima boriti da se njegova riječ čuje.
+3. Očekujemo da svi imamo jednak pristup informacijama o bilo kojoj temi.
+
+<h2 align="center">Kako je definisana u zakonima?</h2>
+
+**Europska Unija:**
+
+> End-users shall have the right to access and distribute information and content, use and provide applications and services, and use terminal equipment of their choice, irrespective of the end-user’s or provider’s location or the location, origin or destination of the information, content, application or service, via their internet access service.
+
+<p align="right"><em><small><a href="http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R2120&rid=2">REGULATION (EU) 2015/2120</a>, član 3, stav 2</small></em></p>
+
+**Hrvatska:**
+
+> promicanjem mogućnosti krajnjih korisnika usluga da pristupaju i raspačavaju podatke ili se koriste aplikacijama i uslugama po vlastitom izboru
+
+<p align="right"><em><small><a href="https://www.zakon.hr/z/182/Zakon-o-elektroni%C4%8Dkim-komunikacijama">Zakon o elektroničkim komunikacijama</a>, član 5, stav 4</small></em></p>
+
+**Srbija:**
+
+> Obezbeđivanje mogućnosti krajnjih korisnika da, prilikom korišćenja javnih komunikacionih mreža i usluga, slobodno pristupaju i distribuiraju informacije, kao i da koriste aplikacije i usluge po svom izboru.
+
+<p align="right"><em><small><a href="http://mtt.gov.rs/download/1(2)/Zakon-o-elektronskim-komunikacijama.pdf">Zakon o elektronskim komunikacijama</a>, član 3, stav 11</small></em></p>
+
+**Bosna i Hercegovina**
+
+Trenutno nema zakon posvećen elektronskim komunikacijama. 
+
 
 <h2 align="center">Ko ugrožava net neutralnost?</h2>
 
