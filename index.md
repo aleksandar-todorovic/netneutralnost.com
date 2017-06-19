@@ -12,7 +12,7 @@ feature: assets/img/neutrality-eff_opt.jpg
 
 Net neutralnost je princip po kome provajderi Internet servisa trebaju da tretiraju sav sadržaju jednakim, bez prioritizovanja ili blokiranja određenog sadržaja ili kompletne web stranice, bez obzira na to odakle sadržaj potiče.
 
-<h2 align="center">Zašto je potrebna?</h2>
+<h2 align="center">Zašto je potreban ovaj princip?</h2>
 
 Ukoliko net neutralnost ne postoji, provajderi Internet servisa bi bili u mogućnosti da urade sljedeće:
 
@@ -21,48 +21,49 @@ Ukoliko net neutralnost ne postoji, provajderi Internet servisa bi bili u moguć
 3. Da naplaćuju korisnicima dodatne pakete za pristupanje određenoj vrsti sadržaja na Internetu.
 4. Da spriječe konkurenciji određene Internet kompanije da posluje pod jednakim uslovima.
 
-Razlozi zašto nam je potrebna:
+Razlozi zašto nam je ovaj princip prijeko potreban:
 
 1. Očekujemo da Internet bude otvoren. Svi znamo da je Internet globalna mreža umreženih računara. Globalna mreža dijela umreženih računara ne bi bila Internet kakvim ga poznajemo.
 2. Sloboda govora zavisi od toga da se svako može pod jednakim uslovima boriti da se njegova riječ čuje.
 3. Očekujemo da svi imamo jednak pristup informacijama o bilo kojoj temi.
 
-<h2 align="center">Kako je definisana u zakonima?</h2>
+<h2 align="center">Kako je ovaj princip definisan u zakonima?</h2>
 
-**Europska Unija:**
+#### Europska Unija:
 
 > End-users shall have the right to access and distribute information and content, use and provide applications and services, and use terminal equipment of their choice, irrespective of the end-user’s or provider’s location or the location, origin or destination of the information, content, application or service, via their internet access service.
 
 <p align="right"><em><small><a href="http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R2120&rid=2">REGULATION (EU) 2015/2120</a>, član 3, stav 2</small></em></p>
 
-**Hrvatska:**
+#### Hrvatska:
 
 > promicanjem mogućnosti krajnjih korisnika usluga da pristupaju i raspačavaju podatke ili se koriste aplikacijama i uslugama po vlastitom izboru
 
 <p align="right"><em><small><a href="https://www.zakon.hr/z/182/Zakon-o-elektroni%C4%8Dkim-komunikacijama">Zakon o elektroničkim komunikacijama</a>, član 5, stav 4</small></em></p>
 
-**Srbija:**
+#### Srbija:
 
 > Obezbeđivanje mogućnosti krajnjih korisnika da, prilikom korišćenja javnih komunikacionih mreža i usluga, slobodno pristupaju i distribuiraju informacije, kao i da koriste aplikacije i usluge po svom izboru.
 
 <p align="right"><em><small><a href="http://mtt.gov.rs/download/1(2)/Zakon-o-elektronskim-komunikacijama.pdf">Zakon o elektronskim komunikacijama</a>, član 3, stav 11</small></em></p>
 
-**Bosna i Hercegovina**
+#### Bosna i Hercegovina:
 
-Trenutno nema zakon posvećen elektronskim komunikacijama. 
-
+Trenutno nema zakon posvećen elektronskim komunikacijama.
 
 <h2 align="center">Ko ugrožava net neutralnost?</h2>
 
-Net neutralnost ugrožavaju Internet provajderi koji tretiraju neke Internet resurse u povlašćenom položaju u odnosu na druge, kao i vlade koje ne čine dovoljno da tu praksu zaustave.
+Net neutralnost ugrožavaju Internet provajderi koji tretiraju neke Internet resurse u povlašćenom položaju u odnosu na druge, kao i vlade koje ne čine dovoljno da tu praksu zaustave. Svi smo svjedoci paketa u kojima je sadržaj jedne Internet kompanije privilegovan u odnosu na druge, bilo da promet te web stranice ne ulazi u pakete podataka ili da se pristup određenim Internet servisima nudi besplatno. Naš cilj je spriječiti takvu praksu i tretirati sav sadržaj na Internetu jednako.
 
 <h2 align="center">Kako smo odlučili da se borimo za ovaj princip?</h2>
 
-Da bismo ukazali na ovaj problem, odlučili smo na jedan dan "ugasiti" domaći Internet. Svi sajtovi izlistani u ovome su modifikovali
+Da bismo ukazali na ovaj problem, odlučili smo na jedan dan "ugasiti" domaći Internet. Web stranice izlistane ispod su dobrovoljno pristale da povuku svoju prisutnost na Internetu na jedan dan, da modifikuju svoje stranice tako da ukažu na problem, ili da jednostavno iskoriste svoje web prisustvo da provedu dan pričajući o principu net neutralnosti i zašto je važan.  
 
 <h2 align="center">Kome smo se pridružili ovom akcijom?</h2>
 
-Ovom akcijom smo se pridružili sajtovima kao što su Amazon, Kickstarter, Vimeo, GitHub, reddit, DigitalOcean, DuckDuckGo, EFF, Mozilla, imgur, Patreon, Vivaldi, Netflix i drugim. Dok ti sajtovi traže specifičnu akciju (ostavljanje komentara tako da neutralnost Interneta ne bude narušena unutar SAD-a), mi smo tu da im pružimo podršku i da spomenemo ovaj problem na lokalnom nivou.
+Ovom akcijom smo se pridružili sajtovima kao što su Amazon, Kickstarter, Vimeo, GitHub, reddit, DigitalOcean, DuckDuckGo, EFF, Mozilla, imgur, Patreon, Vivaldi, Netflix i drugim. Njih organizuje [Battle for the Net](https://www.battleforthenet.com/july12/) kampanja.
+
+Dok ti sajtovi traže specifičnu akciju (ostavljanje komentara tako da neutralnost Interneta ne bude narušena unutar SAD-a), mi smo tu da im pružimo podršku i da spomenemo kako ugrožavanje principa net neutralnosti utiče na nas na lokalnom nivou.
 
 <h2 align="center">Podijeli akciju</h2>
 
@@ -72,43 +73,21 @@ Ovom akcijom smo se pridružili sajtovima kao što su Amazon, Kickstarter, Vimeo
 	</div>
 </div>
 
-<!--<h2 align="center">Zakonska regulativa</h2>
-
-<figure class="half">
-	<a href="#"><img src="assets/img/saznaj-vise/bih.png"></a>
-	<a href="#"><img src="assets/img/saznaj-vise/mne.png"></a>
-	<a href="#"><img src="assets/img/saznaj-vise/cro.png"></a>
-	<a href="#"><img src="assets/img/saznaj-vise/ser.png"></a>
-	<a href="#"><img src="assets/img/saznaj-vise/eur.png"></a>
-	<a href="#"><img src="assets/img/saznaj-vise/usa.png"></a>
-	<figcaption></figcaption>
-</figure>-->
-
 <h2 align="center">Akciji se pridružili</h2>
 
 <div align="center">
 Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o principu net neutralnosti, kontakirajte nas na <a href="mailto:kontakt@netneutralnost.com">kontakt@netneutralnost.com</a>.
 </div>
 
-<h4 align="center">Ugašeni sajtovi</h4>
+<h4 align="center">Web stranice koje su odlučile da se ugase ili modifikuju svoje početne</h4>
 
 <figure class="third">
 	<a href="https://blog.r3bl.me"><img src="assets/img/partners/r3bl.png"></a>
-	<a href="#"><img src="https://placehold.it/600x300.jpg"></a>
-	<a href="#"><img src="https://placehold.it/600x300.jpg"></a>
-	<figcaption></figcaption>
-</figure>
-
-<h4 align="center">Modifikovani sajtovi</h4>
-
-<figure class="third">
 	<a href="https://labs.rs"><img src="assets/img/partners/share-lab.png"></a>
-	<a href="https://oneworldplatform.net/"><img src="assets/img/partners/owplatform.png"></a>
-	<a href="#"><img src="https://placehold.it/600x300.jpg"></a>
-	<figcaption></figcaption>
+	<a href="https://oneworldplatform.net/"><img src="assets/img/partners/owplatform.png"></a>	<figcaption></figcaption>
 </figure>
 
-<h4 align="center">Sajtovi koji će pričati o ovome problemu</h4>
+<h4 align="center">Web stranice koje su odlučile da pričaju o ovome problemu</h4>
 
 <figure class="third">
 	<a href="#"><a href="#"><img src="https://placehold.it/600x300.jpg"></a></a>
