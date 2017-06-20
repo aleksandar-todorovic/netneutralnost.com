@@ -86,13 +86,10 @@ Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o pr
 	<a href="https://labs.rs"><img src="assets/img/partners/share-lab.png"></a>
 	<a href="https://oneworldplatform.net/"><img src="assets/img/partners/owplatform.png"></a>	<figcaption></figcaption>
 </figure>
-
-<h4 align="center">Web stranice koje su odlučile da pričaju o ovome problemu</h4>
-
 <figure class="third">
-	<a href="#"><a href="#"><img src="https://placehold.it/600x300.jpg"></a></a>
+	<a href="https://libre.lugons.org/"><img src="assets/img/partners/libre.png"></a>
 	<a href="https://kompjuteras.com"><img src="assets/img/partners/kompjuteras.png"></a>
-	<a href="#"><img src="https://placehold.it/600x300.jpg"></a>
+	<a href="https://crypto.ba/"><img src="assets/img/partners/crypto-ba.png"></a>
 	<figcaption></figcaption>
 </figure>
 
