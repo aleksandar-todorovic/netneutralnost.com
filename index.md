@@ -84,7 +84,7 @@ Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o pr
 <figure class="third">
 	<a href="https://blog.r3bl.me"><img src="assets/img/partners/r3bl.png"></a>
 	<a href="https://labs.rs"><img src="assets/img/partners/share-lab.png"></a>
-	<a href="https://oneworldplatform.net/"><img src="assets/img/partners/owplatform.png"></a>	<figcaption></figcaption>
+  <a href="https://www.facebook.com/institutdigitalneslobode/"><img src="assets/img/partners/ids.png"></a>
 </figure>
 <figure class="third">
 	<a href="https://libre.lugons.org/"><img src="assets/img/partners/libre.png"></a>
