@@ -8,11 +8,11 @@ tags: [sample post, images, test]
 feature: assets/img/neutrality-eff_opt.jpg
 ---
 
-<h2 align="center">Šta je net neutralnost?</h2>
+<h2 align="center" id="sta-je-net-neutralnost">Šta je net neutralnost?</h2>
 
 Net neutralnost je princip po kome provajderi Internet servisa trebaju da tretiraju sav sadržaju jednakim, bez prioritizovanja ili blokiranja određenog sadržaja ili kompletne web stranice, bez obzira na to odakle sadržaj potiče.
 
-<h2 align="center">Zašto je potreban ovaj princip?</h2>
+<h2 align="center" id="zasto-je-potrebna">Zašto je potreban ovaj princip?</h2>
 
 Ukoliko net neutralnost ne postoji, provajderi Internet servisa bi bili u mogućnosti da urade sljedeće:
 
@@ -27,7 +27,7 @@ Razlozi zašto nam je ovaj princip prijeko potreban:
 2. Sloboda govora zavisi od toga da se svako može pod jednakim uslovima boriti da se njegova riječ čuje.
 3. Očekujemo da svi imamo jednak pristup informacijama o bilo kojoj temi.
 
-<h2 align="center">Kako je ovaj princip definisan u zakonima?</h2>
+<h2 align="center" id="kako-je-definisana">Kako je ovaj princip definisan u zakonima?</h2>
 
 #### Europska Unija:
 
@@ -51,15 +51,15 @@ Razlozi zašto nam je ovaj princip prijeko potreban:
 
 Trenutno nema zakon posvećen elektronskim komunikacijama.
 
-<h2 align="center">Ko ugrožava net neutralnost?</h2>
+<h2 align="center" id="ko-je-ugrozava">Ko ugrožava net neutralnost?</h2>
 
 Net neutralnost ugrožavaju Internet provajderi koji tretiraju neke Internet resurse u povlašćenom položaju u odnosu na druge, kao i vlade koje ne čine dovoljno da tu praksu zaustave. Svi smo svjedoci paketa u kojima je sadržaj jedne Internet kompanije privilegovan u odnosu na druge, bilo da promet te web stranice ne ulazi u pakete podataka ili da se pristup određenim Internet servisima nudi besplatno. Naš cilj je spriječiti takvu praksu i tretirati sav sadržaj na Internetu jednako.
 
-<h2 align="center">Kako smo odlučili da se borimo za ovaj princip?</h2>
+<h2 align="center" id="kako-se-borimo-za-nju">Kako smo odlučili da se borimo za ovaj princip?</h2>
 
 Da bismo ukazali na ovaj problem, odlučili smo na jedan dan "ugasiti" domaći Internet. Web stranice izlistane ispod su dobrovoljno pristale da povuku svoju prisutnost na Internetu na jedan dan, da modifikuju svoje stranice tako da ukažu na problem, ili da jednostavno iskoriste svoje web prisustvo da provedu dan pričajući o principu net neutralnosti i zašto je važan.  
 
-<h2 align="center">Kome smo se pridružili ovom akcijom?</h2>
+<h2 align="center" id="kome-smo-se-pridruzili">Kome smo se pridružili ovom akcijom?</h2>
 
 Ovom akcijom smo se pridružili sajtovima kao što su Amazon, Kickstarter, Vimeo, GitHub, reddit, DigitalOcean, DuckDuckGo, EFF, Mozilla, imgur, Patreon, Vivaldi, Netflix i drugim. Njih organizuje [Battle for the Net](https://www.battleforthenet.com/july12/) kampanja.
 
@@ -73,7 +73,7 @@ Dok ti sajtovi traže specifičnu akciju (ostavljanje komentara tako da neutraln
 	</div>
 </div>
 
-<h2 align="center">Akciji se pridružili</h2>
+<h2 align="center" id="ko-ucestvuje-u-akciji">Akciji se pridružili</h2>
 
 <div align="center">
 Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o principu net neutralnosti, kontakirajte nas na <a href="mailto:kontakt@netneutralnost.com">kontakt@netneutralnost.com</a>.
