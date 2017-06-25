@@ -5,7 +5,7 @@ date: 2013-05-22
 comments: false
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
-feature: assets/img/neutrality-eff_opt.jpg
+# feature: assets/img/neutrality-eff_opt.jpg
 ---
 
 <h2 id="sta-je-net-neutralnost">Šta je net neutralnost?</h2>
@@ -91,6 +91,9 @@ Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o pr
 	<a href="https://kompjuteras.com"><img src="assets/img/partners/kompjuteras.png"></a>
 	<a href="https://crypto.ba/"><img src="assets/img/partners/crypto-ba.png"></a>
 	<figcaption></figcaption>
+</figure>
+<figure class="third">
+	<a href="https://forum.balkan.io/"><img src="assets/img/partners/balkanio.png"></a>
 </figure>
 
 {% include footer.html %}
