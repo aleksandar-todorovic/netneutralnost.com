@@ -7,9 +7,23 @@
 	-moz-font-smoothing: antialiased !important;
 	text-rendering: optimizelegibility !important;
 	text-align: justify;
+    h2 {
+        text-align: center;
+        margin: 72px 0 37px
+    }
+
+    li {
+        text-align: left;
+    }
 	@media #{$small} {
 		padding: 0 .5em;
 	}
+    @media only screen and (max-width: 1024px) {
+    	text-align: left;
+        h2 {
+            text-align: left;
+        }
+    }
 }
 
 // titles
@@ -70,7 +84,7 @@ h3.title a {
 blockquote {
 	font-family:$alt-font;
 	font-style:italic;
-	border-left:8px solid $color_tundora;
+	border-left:8px solid $color_yellow;
 	padding-left:20px;
 	margin: 0;
 }

@@ -16,7 +16,7 @@ body {
 	font-family: $font1;
 	@include font-rem($doc-font-size);
 	color: $color_tuatara;
-	background-color: $bodycolor;
+	background-color: $white;
 	background-position: center center;
 	background-attachment: fixed;
 	@media #{$small} {
@@ -91,7 +91,7 @@ body {
 }
 .row {
 	margin-top: 15px;
-	text-align: center;
+	text-align: left;
 	.title {
 	    margin-top: 0;
 	    margin-bottom: 5px;
@@ -108,7 +108,7 @@ body {
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	// box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {
 		width: 90%;
@@ -147,14 +147,16 @@ body {
 	}
 	.tag {
 	    display: inline-block;
-        border: 1px solid;
-        border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
+        font-size: 38px;
+        // border: 1px solid;
+        // border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
         @include rounded(3px);
         text-decoration: none;
-        background-color: $white;
+        background-color: $color_yellow;
         color: $color_tuatara;
-        @include transition(.75s);
-        margin: 2px 5px;
+        @include transition(.5s);
+        margin: 10px 15px;
+        padding: 2px 25px;
 		span {
 			float: left;
 			padding: 2px 6px;
@@ -164,7 +166,7 @@ body {
 			@include border-radius(3px,3px,0,0);
 		}
 		&:hover {
-			background-color: darken($white,15);
+			background-color: darken($color_yellow,15);
 			box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
 		}
 	}

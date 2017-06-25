@@ -1,6 +1,12 @@
+// custom netneutralnost colors
+
+$color_yellow: #FDD554;
+$black: #2A2A2A;
+
+
 //colors
 $bodycolor           : #D24D57;
-$black           	   : #000;
+// $black           	   : #000;
 $white               : #fff;
 $color_gray          : #e8e8e8;
 $red                 : #FF4136;
@@ -29,7 +35,8 @@ $info	         : #308cbc;
 //fonts
 $font1               : Open Sans,sans-serif;
 $font2               : Inconsolata;
-$alt-font            : serif;
+// $alt-font            : serif;
+$alt-font            : Open Sans,sans-serif;
 $doc-font-size       : 12;
 $doc-line-height     : 26;
 
