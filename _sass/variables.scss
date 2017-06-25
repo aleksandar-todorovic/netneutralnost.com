@@ -1,6 +1,6 @@
 // custom netneutralnost colors
 
-$color_yellow: #FDD554;
+$color_accent: #FDD554; // FDD554 // C34F7E
 $black: #2A2A2A;
 
 
@@ -43,5 +43,6 @@ $doc-line-height     : 26;
 //media
 $small               : "only screen and (max-width: 30em)";
 $medium              : "only screen and (min-width: 30.1em) and (max-width: 48em)";
+$smallmedium         : "only screen and (max-width: 48em)";
 $large               : "only screen and (min-width: 48.1em) and (max-width: 62.5em)";
 $notsmall            : "only screen and (min-width: 48em)";

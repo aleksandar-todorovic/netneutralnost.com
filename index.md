@@ -8,6 +8,10 @@ tags: [sample post, images, test]
 # feature: assets/img/neutrality-eff_opt.jpg
 ---
 
+<figure class="banner">
+    <img src="assets/img/neutrality-eff_opt.jpg">
+</figure>
+
 <h2 id="sta-je-net-neutralnost">Šta je net neutralnost?</h2>
 
 Net neutralnost je princip po kome provajderi Internet servisa trebaju da tretiraju sav sadržaju jednakim, bez prioritizovanja ili blokiranja određenog sadržaja ili kompletne web stranice, bez obzira na to odakle sadržaj potiče.

@@ -11,6 +11,8 @@
         text-align: center;
         margin: 72px 0 37px;
 
+        // background-image: linear-gradient(transparent 28px, $color_accent 28px);
+
         @media #{$small} {
             margin: 2rem 0 1rem;
         }
@@ -45,19 +47,61 @@
 }
 .post-title {
 	text-align: center;
-	font-weight: bold;
 	margin-bottom: 3rem;
+    margin: 0 -10em;
+
+    @media #{$medium} {
+        margin: 0 -2em;
+    }
+
+    @media #{$small} {
+        margin: 0 0.5em;
+    }
 
     h1 {
-        font-size: 84px;
-        line-height: 115px;
-        @media #{$medium} {
-            font-size: 51px;
-            line-height: 68px;
+        .date {
+            font-weight: bold;
         }
-        @media #{$small} {
-            font-size: 33px;
-            line-height: 49px;
+        .net {
+            font-weight: bold;
+        }
+        .neutralnost {
+            font-weight: bold;
+            color: $white;
+            background-color: $color_accent;
+            background-image: -webkit-linear-gradient(transparent 23px, $black 23px);
+            background-image: -moz-linear-gradient(transparent 23px, $black 23px);
+            background-image: -o-linear-gradient(transparent 23px, $black 23px);
+            background-image: linear-gradient(transparent 23px, $black 23px);
+            background-position: top -23px left 0px;
+            padding: 0 25px;
+
+            @media #{$smallmedium} {
+                background-image: linear-gradient(transparent 9px, $black 9px);
+                background-position: top -9px left 0px;
+            }
+        }
+        .netneutralnost {
+            background-image: -webkit-linear-gradient(transparent 46px, $color_accent 46px);
+            background-image: -moz-linear-gradient(transparent 46px, $color_accent 46px);
+            background-image: -o-linear-gradient(transparent 46px, $color_accent 46px);
+            background-image: linear-gradient(transparent 46px, $color_accent 46px);
+            padding: 0px 26px;
+
+            @media #{$smallmedium} {
+                background-image: linear-gradient(transparent 19px, #FDD554 19px);
+                padding: 0px 11px;
+            }
+        }
+        font-weight: normal;
+
+        font-size: 59px;
+        line-height: 101px;
+        @media #{$smallmedium} {
+            font-size: 23px;
+            line-height: 42px;
+            .neutralnost { padding: 0 5px; }
+            .netneutralnost { padding: 0px 26px; }
         }
     }
 }
@@ -101,7 +145,7 @@ h3.title a {
 blockquote {
 	font-family:$alt-font;
 	font-style:italic;
-	border-left:8px solid $color_yellow;
+	border-left:8px solid $color_accent;
 	padding-left:20px;
 	margin: 0;
 }

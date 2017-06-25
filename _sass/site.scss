@@ -149,11 +149,19 @@ body {
 	.tag {
 	    display: inline-block;
         font-size: 38px;
+        @media #{$medium} {
+            font-size: 19px;
+            padding: 2px 10px;
+        }
+        @media #{$small} {
+            font-size: 1.17em;
+            padding: 2px 10px;
+        }
         // border: 1px solid;
         // border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
         @include rounded(3px);
         text-decoration: none;
-        background-color: $color_yellow;
+        background-color: $color_accent;
         color: $color_tuatara;
         @include transition(.5s);
         margin: 10px 15px;
@@ -167,7 +175,7 @@ body {
 			@include border-radius(3px,3px,0,0);
 		}
 		&:hover {
-			background-color: darken($color_yellow,15);
+			background-color: darken($color_accent,15);
 			box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
 		}
 	}
