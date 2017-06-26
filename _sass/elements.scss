@@ -87,20 +87,15 @@ hr {
 	border: 0;
 	height: 1px;
 	opacity: .8;
-    margin: 1em 0;
-	background-image: -webkit-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-	background-image: -moz-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-	background-image: -ms-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-	background-image: -o-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+    margin: 1em 0 4em 0;
+    background-color: $black;
+
 	&.hr-line {
 		border: 0;
 		height: 1px;
 		opacity: .15;
 		margin: 1em 0;
-		background-image: -webkit-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-		background-image: -moz-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-		background-image: -ms-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-		background-image: -o-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+        background-color: $black;
 	}
 }
 
@@ -131,6 +126,11 @@ img {
     margin-left: 1em;
     margin-top: 0;
 }
+
+figure.banner {
+    margin: -1em -140px;
+}
+
 figure {
   margin: 0;
   padding-top: 10px;
@@ -154,12 +154,16 @@ figure {
     }
   }
   &.third {
+      img {
+          margin-bottom: 30px;
+      }
     @media only screen and (min-width: 62.5em) {
       img {
-        width: calc(33.3% - 6px);
+        width: calc(33.3% - 10px);
         float: left;
-        margin-left: 1px;
-        margin-right: 1px;
+        margin-left: 5px;
+        margin-right: 5px;
+        padding: 26px 2px;
       }
       figcaption {
         clear: left;

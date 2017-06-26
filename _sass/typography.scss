@@ -7,9 +7,29 @@
 	-moz-font-smoothing: antialiased !important;
 	text-rendering: optimizelegibility !important;
 	text-align: justify;
+    h2 {
+        text-align: center;
+        margin: 72px 0 37px;
+
+        // background-image: linear-gradient(transparent 28px, $color_accent 28px);
+
+        @media #{$small} {
+            margin: 2rem 0 1rem;
+        }
+    }
+
+    li {
+        text-align: left;
+    }
 	@media #{$small} {
 		padding: 0 .5em;
 	}
+    @media only screen and (max-width: 1024px) {
+    	text-align: left;
+        h2 {
+            text-align: left;
+        }
+    }
 }
 
 // titles
@@ -27,8 +47,63 @@
 }
 .post-title {
 	text-align: center;
-	font-weight: bold;
 	margin-bottom: 3rem;
+    margin: 0 -10em;
+
+    @media #{$medium} {
+        margin: 0 -2em;
+    }
+
+    @media #{$small} {
+        margin: 0 0.5em;
+    }
+
+    h1 {
+        .date {
+            font-weight: bold;
+        }
+        .net {
+            font-weight: bold;
+        }
+        .neutralnost {
+            font-weight: bold;
+            color: $white;
+            background-color: $color_accent;
+            background-image: -webkit-linear-gradient(transparent 23px, $black 23px);
+            background-image: -moz-linear-gradient(transparent 23px, $black 23px);
+            background-image: -o-linear-gradient(transparent 23px, $black 23px);
+            background-image: linear-gradient(transparent 23px, $black 23px);
+            background-position: top -23px left 0px;
+            padding: 0 25px;
+
+            @media #{$smallmedium} {
+                background-image: linear-gradient(transparent 9px, $black 9px);
+                background-position: top -9px left 0px;
+            }
+        }
+        .netneutralnost {
+            background-image: -webkit-linear-gradient(transparent 46px, $color_accent 46px);
+            background-image: -moz-linear-gradient(transparent 46px, $color_accent 46px);
+            background-image: -o-linear-gradient(transparent 46px, $color_accent 46px);
+            background-image: linear-gradient(transparent 46px, $color_accent 46px);
+            padding: 0px 26px;
+
+            @media #{$smallmedium} {
+                background-image: linear-gradient(transparent 19px, #FDD554 19px);
+                padding: 0px 11px;
+            }
+        }
+        font-weight: normal;
+
+        font-size: 59px;
+        line-height: 101px;
+        @media #{$smallmedium} {
+            font-size: 23px;
+            line-height: 42px;
+            .neutralnost { padding: 0 5px; }
+            .netneutralnost { padding: 0px 26px; }
+        }
+    }
 }
 
 // headings
@@ -70,7 +145,7 @@ h3.title a {
 blockquote {
 	font-family:$alt-font;
 	font-style:italic;
-	border-left:8px solid $color_tundora;
+	border-left:8px solid $color_accent;
 	padding-left:20px;
 	margin: 0;
 }

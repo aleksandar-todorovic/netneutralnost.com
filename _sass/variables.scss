@@ -1,6 +1,12 @@
+// custom netneutralnost colors
+
+$color_accent: #FDD554; // FDD554 // C34F7E
+$black: #2A2A2A;
+
+
 //colors
 $bodycolor           : #D24D57;
-$black           	   : #000;
+// $black           	   : #000;
 $white               : #fff;
 $color_gray          : #e8e8e8;
 $red                 : #FF4136;
@@ -29,12 +35,14 @@ $info	         : #308cbc;
 //fonts
 $font1               : Open Sans,sans-serif;
 $font2               : Inconsolata;
-$alt-font            : serif;
+// $alt-font            : serif;
+$alt-font            : Open Sans,sans-serif;
 $doc-font-size       : 12;
 $doc-line-height     : 26;
 
 //media
 $small               : "only screen and (max-width: 30em)";
 $medium              : "only screen and (min-width: 30.1em) and (max-width: 48em)";
+$smallmedium         : "only screen and (max-width: 48em)";
 $large               : "only screen and (min-width: 48.1em) and (max-width: 62.5em)";
 $notsmall            : "only screen and (min-width: 48em)";
