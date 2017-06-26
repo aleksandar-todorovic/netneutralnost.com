@@ -65,9 +65,9 @@ Da bismo ukazali na ovaj problem, odlučili smo na jedan dan "ugasiti" domaći I
 
 <h2 id="kome-smo-se-pridruzili">Kome smo se pridružili ovom akcijom?</h2>
 
-Ovom akcijom smo se pridružili sajtovima kao što su Amazon, Kickstarter, Vimeo, GitHub, reddit, DigitalOcean, DuckDuckGo, EFF, Mozilla, imgur, Patreon, Vivaldi, Netflix i drugim. Njih organizuje [Battle for the Net](https://www.battleforthenet.com/july12/) kampanja.
+Ovom akcijom smo se pridružili web kompanijama i organizacijama kao što su Amazon, Kickstarter, Vimeo, GitHub, reddit, DigitalOcean, DuckDuckGo, EFF, Mozilla, imgur, Patreon, Vivaldi, Netflix i drugim. Njih organizuje [Battle for the Net](https://www.battleforthenet.com/july12/) kampanja.
 
-Dok ti sajtovi traže specifičnu akciju (ostavljanje komentara tako da neutralnost Interneta ne bude narušena unutar SAD-a), mi smo tu da im pružimo podršku i da spomenemo kako ugrožavanje principa net neutralnosti utiče na nas na lokalnom nivou.
+Dok ove kompanije / organizacije traže specifičnu akciju (ostavljanje komentara tako da net neutralnost ne bude narušena unutar SAD-a), mi smo tu da im pružimo podršku i da spomenemo kako ugrožavanje principa net neutralnosti utiče na nas na lokalnom nivou.
 
 <h2>Podijeli akciju</h2>
 
@@ -80,7 +80,7 @@ Dok ti sajtovi traže specifičnu akciju (ostavljanje komentara tako da neutraln
 <h2 id="ko-ucestvuje-u-akciji">Akciji se pridružili</h2>
 
 <div>
-Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o principu net neutralnosti, kontakirajte nas na <a href="mailto:kontakt@netneutralnost.com">kontakt@netneutralnost.com</a>.
+Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o principu net neutralnosti, kontakirajte nas na <a href="mailto:aleksandar@r3bl.me">aleksandar@r3bl.me</a>.
 </div>
 
 <h4>Web stranice koje su odlučile da se ugase ili modifikuju svoje početne</h4>
