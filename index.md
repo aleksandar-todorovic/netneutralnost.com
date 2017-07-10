@@ -98,6 +98,8 @@ Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o pr
 </figure>
 <figure class="third">
 	<a href="https://forum.balkan.io/"><img src="assets/img/partners/balkanio.png"></a>
+  <a href="http://mozilla.rs/"><img src="assets/img/partners/mozilla-srbija.png"></a>
+  <a href="https://www.linuxzasve.com/"><img src="assets/img/partners/linuxzasve.png"></a>
 </figure>
 
 {% include footer.html %}
