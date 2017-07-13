@@ -16,42 +16,8 @@ layout: compress
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
-                    <h1><span class="date">12.7.</span> je dan kada pričamo o <br/>
+                    <h1><span class="date">12.7.2017.</span> je dan kada smo pokrenuli priču o <br/>
                         <span class="netneutralnost"><span class="net">net <span/><span class="neutralnost">neutralnosti</span></span></h1>
-                    <script>
-                      var end = new Date('07/12/2017 00:0 AM');
-
-                          var _second = 1000;
-                          var _minute = _second * 60;
-                          var _hour = _minute * 60;
-                          var _day = _hour * 24;
-                          var timer;
-
-                          function showRemaining() {
-                              var now = new Date();
-                              var distance = end - now;
-                              if (distance < 0) {
-
-                                  clearInterval(timer);
-                                  document.getElementById('countdown').innerHTML = 'EXPIRED!';
-
-                                  return;
-                              }
-                              var days = Math.floor(distance / _day);
-                              var hours = Math.floor((distance % _day) / _hour);
-                              var minutes = Math.floor((distance % _hour) / _minute);
-                              var seconds = Math.floor((distance % _minute) / _second);
-
-                              document.getElementById('countdown').innerHTML = 'Akcija počinje za ';
-                              document.getElementById('countdown').innerHTML += ('0' + days).slice(-2) + ' dana ';
-                              document.getElementById('countdown').innerHTML += ('0' + hours).slice(-2) + ':';
-                              document.getElementById('countdown').innerHTML += ('0' + minutes).slice(-2) + ':';
-                              document.getElementById('countdown').innerHTML += ('0' + seconds).slice(-2);
-                          }
-
-                          timer = setInterval(showRemaining, 1000);
-                      </script>
-                    <h3 id="countdown"><h3>
                     <div class="entry-meta">
                       <hr>
                       <h4>Podijeli akciju:</h4>

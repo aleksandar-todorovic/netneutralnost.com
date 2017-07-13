@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "12.7. je dan kada pričamo o net neutralnosti"
+title: "12.7. je dan kada smo pokrenuli priču o net neutralnosti"
 date: 2013-05-22
 comments: false
 excerpt: "Examples and code for displaying images in posts."
@@ -69,21 +69,10 @@ Ovom akcijom smo se pridružili web kompanijama i organizacijama kao što su Ama
 
 Dok ove kompanije / organizacije traže specifičnu akciju (ostavljanje komentara tako da net neutralnost ne bude narušena unutar SAD-a), mi smo tu da im pružimo podršku i da spomenemo kako ugrožavanje principa net neutralnosti utiče na nas na lokalnom nivou.
 
-<h2>Podijeli akciju</h2>
-
-<div class="post-title">
-	<div class="entry-meta">
-		{% include meta.html %}
-	</div>
-</div>
 
 <h2 id="ko-ucestvuje-u-akciji">Akciji se pridružili</h2>
 
-<div>
-Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o principu net neutralnosti, kontakirajte nas na <a href="mailto:aleksandar@r3bl.me">aleksandar@r3bl.me</a>.
-</div>
-
-<h4>Web stranice koje su odlučile da se ugase ili modifikuju svoje početne</h4>
+<div align="center">Spisak web stranica koje su učestvovale u akciji.</div>
 
 <figure class="third">
 	<a href="https://blog.r3bl.me"><img src="assets/img/partners/r3bl.png"></a>
@@ -100,6 +89,42 @@ Ukoliko želite da se pridružite akciji i da provedete dan javno govoreći o pr
 	<a href="https://forum.balkan.io/"><img src="assets/img/partners/balkanio.png"></a>
   <a href="http://mozilla.rs/"><img src="assets/img/partners/mozilla-srbija.png"></a>
   <a href="https://www.linuxzasve.com/"><img src="assets/img/partners/linuxzasve.png"></a>
+  <figcaption></figcaption>
 </figure>
+
+<h2 id="kako-je-akcija-izgledala">Kako je akcija izgledala</h2>
+
+<div align="center">
+  Neki od primjera kako je akcija izgledala.
+
+<figure align="center">
+	<a href="assets/img/primjeri/balkan-io.png"><img src="assets/img/primjeri/balkan-io.png"></a>
+</figure>
+
+<figure align="center">
+	<a href="assets/img/primjeri/kompjuteras.png"><img src="assets/img/primjeri/kompjuteras.png"></a>
+</figure>
+
+  Objavljeni članci: <br/>
+  <a href="http://www.netokracija.com/12-srpnja-internet-neutralnost-138684">12. srpnja: Dan borbe za poštivanje principa neutralnosti interneta – i u našoj regiji!</a><br/>
+  <a href="http://www.linuxzasve.com/12-srpanj-dan-borbe-za-net-neutralnost">12. srpanj – dan borbe za net neutralnost</a>
+</div>
+
+<h2 id="sta-dalje">Šta će se dešavati dalje?</h2>
+
+Borićemo se i dalje za princip net neutralnosti, međutim drugim sredstvima. Ova domena je odradila ono za šta je registrovana. Ukoliko imate neku ideju za ovu domenu, spreman sam je ustupiti (besplatno) vašoj ideji. Ukoliko je to slučaj, možete me kontaktirati na <a href="mailto:aleksandar@r3bl.me">aleksandar@r3bl.me</a>.
+
+<h2 id="zahvale">Zahvale</h2>
+
+Za kraj, želio bih da se zahvalim određenim osobama i organizacijama:
+
+* Svim administratorima web stranica koji su odlučili da učestvuju u ovoj akciji.
+* [Balkan I/O](https://forum.balkan.io/blackout.html) ekipi, za nesebičan doprinos dizajnu ove web stranice.
+* Ekipi portala [Crypto.ba](https://crypto.ba/) na nesebičnoj podršci, od dizajna, preko podrške na društvenim mrežama, do moralne podrške.
+* Ekipi portala [Netokracija](http://www.netokracija.com/), za medijsku podršku akciji.
+* Svakom individualcu koji je pružio podršku na društvenim medijima.
+
+Pokretač akcije,<br/>
+[Aleksandar Todorović](https://r3bl.me)  
 
 {% include footer.html %}
